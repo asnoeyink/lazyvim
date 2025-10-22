@@ -1,0 +1,14 @@
+{
+  "Function Component": {
+    "prefix": "fc",
+    "body": [
+      "type ${3:Props} = {",
+      "  ${4}",
+      "}",
+      "",
+      "export const ${1}: React.FC<${2:Props}> = (props) => {",
+      "  return <>${0}</>",
+      "}"
+    ]
+  }
+}
