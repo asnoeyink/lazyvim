@@ -1,2 +1,0 @@
-type Props = {};
-f;
