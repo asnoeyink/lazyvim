@@ -61,7 +61,7 @@ return {
           },
         },
         --{ LazyVim.lualine.pretty_path() },
-        --{ "aerial" },
+        { "aerial" },
       },
     },
   },

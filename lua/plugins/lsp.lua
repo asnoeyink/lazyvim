@@ -22,6 +22,15 @@ return {
             },
           },
         },
+        vtsls = {
+          settings = {
+            typescript = {
+              preferences = {
+                importModuleSpecifier = "non-relative", -- import relative to tsconfig
+              },
+            },
+          },
+        },
       },
     },
   },
